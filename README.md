@@ -1,7 +1,7 @@
 <header>
   <div align='center'>
     <h1>Jinseon Choi.</h1>
-    <img src="image.png" width="200px">
+    <img src="image_me.png" width="200px">
     <h3>Hi, I'm <strong>Jinseon Choi.</strong></h3>
     <p>I'm majoring in Systems Management Engineering. (Industrial Engineering)</p>
     <strong><a href="https://heavenly-nylon-4ca.notion.site/About-me-Realsunchoi-30983455a1e94a5f8cd2c7046feea6c3">read me more..</a>
