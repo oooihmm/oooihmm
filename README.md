@@ -3,7 +3,7 @@
     <h1>Jinseon Choi.</h1>
     </br><img src="image_me.png" width="200px">
     <h3>Hi, I'm <strong>Jinseon Choi.</strong></h3>
-    <p>I'm majoring in Systems Management Engineering. (Industrial Engineering)</p>
+    <p>I'm majoring in Systems Management Engineering.</p>
     <p>I’m studying at <a href="https://github.com/TeamLab" style="color:#7346B2">
       <img src="https://avatars.githubusercontent.com/u/8847097?s=200&v=4" width="15px;" height="15px;"/>
       <strong>TEAMLAB</strong></a></p>
