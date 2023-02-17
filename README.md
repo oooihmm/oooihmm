@@ -21,9 +21,6 @@
         <img src="https://img.shields.io/badge/Vue.js-000000?style=round-square&logo=Vue.js&logoColor=bluegreen"/>
         <img src="https://img.shields.io/badge/Node.js-000000?style=round-square&logo=Node.js&logoColor=bluegreen"/>
         <img src="https://img.shields.io/badge/MySQL-000000?style=round-square&logo=MySQL&logoColor=4479A1">
-      <h5>DevOPS</h5>
-        <img src="https://img.shields.io/badge/GitHub-000000?style=round-square&logo=GitHub&logoColor=bluegreen"/>
-        <img src="https://img.shields.io/badge/Visual Studio Code-000000?style=round-square&logo=Visual Studio Code&logoColor=007ACC"/>
     <br>
     <br>
     <h3>Contact Me</h3>
