@@ -28,8 +28,5 @@
       <a href="mailto:sttaurt@gmail.com"><img src="https://img.shields.io/badge/Gmail-000000?style=round-square&logo=gmail&logoColor=EA4335"/></a>
     </p>
     <br>
-
-  ![Jinseon's GitHub stats](https://github-readme-stats.vercel.app/api?username=oooihmm&show_icons=true&theme=radical)
-
   </div>
 </body>
