@@ -1,7 +1,7 @@
 <header>
   <div align='center'>
     <h1>Jinseon Choi.</h1>
-    </br><img src="image_me.jpeg" width="200px">
+    </br><img src="me.jpeg" width="200px">
     <h3>Hi, I'm <strong>Jinseon Choi.</strong></h3>
     <p>I'm majoring in Systems Management Engineering.</p>
     <p>I’m studying at <a href="https://blissray.notion.site/blissray/TEAMLAB-d690ca4b3f4d44449520ed21e9b51739" style="color:#7346B2">
