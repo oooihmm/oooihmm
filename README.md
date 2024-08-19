@@ -18,6 +18,7 @@
       <h5>Programming Language</h5>
         <img src="https://img.shields.io/badge/Python-000000?style=round-square&logo=Python&logoColor=blue"/>
       <h5>Web Programming</h5>
+        <img src="https://img.shields.io/badge/ReactJs-000000?style=round-square&logo=ReactJs&logoColor=bluegreen"/>        
         <img src="https://img.shields.io/badge/Vue.js-000000?style=round-square&logo=Vue.js&logoColor=bluegreen"/>
         <img src="https://img.shields.io/badge/Node.js-000000?style=round-square&logo=Node.js&logoColor=bluegreen"/>
         <img src="https://img.shields.io/badge/MySQL-000000?style=round-square&logo=MySQL&logoColor=4479A1">
