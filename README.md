@@ -21,7 +21,6 @@
         <img src="https://img.shields.io/badge/react-000000?style=round-square&logo=react&logoColor=bluegreen"/>        
         <img src="https://img.shields.io/badge/Vue.js-000000?style=round-square&logo=Vue.js&logoColor=bluegreen"/>
         <img src="https://img.shields.io/badge/Node.js-000000?style=round-square&logo=Node.js&logoColor=bluegreen"/>
-        <img src="https://img.shields.io/badge/MySQL-000000?style=round-square&logo=MySQL&logoColor=4479A1">
     <br>
     <br>
     <h3>Contact Me</h3>
