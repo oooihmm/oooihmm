@@ -7,7 +7,7 @@
     <p>I’m studying at <a href="https://blissray.notion.site/blissray/TEAMLAB-d690ca4b3f4d44449520ed21e9b51739" style="color:#7346B2">
       <img src="https://avatars.githubusercontent.com/u/8847097?s=200&v=4" width="15px;" height="15px;"/>
       <strong>TEAMLAB</strong></a></p>
-    <strong><a href="https://heavenly-nylon-4ca.notion.site/About-me-Realsunchoi-30983455a1e94a5f8cd2c7046feea6c3">read me more..</a>
+    <strong><a href="https://www.notion.so/Jinseon-Choi-30983455a1e94a5f8cd2c7046feea6c3">read me more..</a>
   </div>
 </header>
   
@@ -16,6 +16,7 @@
     <br>
     <h3>Languages and Tools</h3>
       <h5>Programming Language</h5>
+        <img src="https://img.shields.io/badge/Javascript-000000?style=round-square&logo=Javascript&logoColor=yellow"/>
         <img src="https://img.shields.io/badge/Python-000000?style=round-square&logo=Python&logoColor=blue"/>
       <h5>Web Programming</h5>
         <img src="https://img.shields.io/badge/react-000000?style=round-square&logo=react&logoColor=bluegreen"/>        
